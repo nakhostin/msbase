@@ -1,0 +1,9 @@
+    host: "event.fidiboskills.org"
+    app_id: "nima"
+    jwt_secret: "9273EC80FC11B9B80A32ED3673D52316"
+    tls: false
+    echo:
+        prefix: "/jitsi"
+        jwt_secret: "5059BC4940913D21C5A60B39F11079CA"
+
+
